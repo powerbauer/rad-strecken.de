@@ -1,0 +1,3 @@
+* Radstrecken
+** Eine Sammlung von Radstrecken, tabellarisch, sortierbar und mit den wichtigsten Eckdaten
+** Die eigentliche Seite muss im Unterordner 'docs' liegen, wegen der naming convention in github pages
