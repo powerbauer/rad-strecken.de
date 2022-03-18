@@ -1,3 +1,13 @@
 * Radstrecken
-** Eine Sammlung von Radstrecken, tabellarisch, sortierbar und mit den wichtigsten Eckdaten
-** Die eigentliche Seite muss im Unterordner 'docs' liegen, wegen der naming convention in github pages
+**** Eine Sammlung von Radstrecken, tabellarisch, sortierbar und mit den wichtigsten Eckdaten
+**** Alle Datein im Unterordner 'docs' werden automatisch von Github Pages gepublisht, wobei 'docs' ein fester Teil der Github Pages naming convention ist
+**** TODO OSM tile previews mit 'gpx2png' und 'pngquant' erzeugen
+**** TODO Getrennte Tabllen für MTB, Rennrad und Sonstiges, evtl. per JavaScript sortierbar
+**** TODO Python o.ä. um GPX tracks zu analysieren, automatisches ergänzen der wichtigesten Eckdaten
+***** - Distanz
+***** - Höhenmeter, Höhenmeter / Distanz
+***** - "Schwierigkeitsgrad" ?
+***** - Markante Punkte / Städte
+**** TODO Ort um PNGs und GPX zu hosten, außerhalb von Github
+**** TODO interaktiven OSM iframe einblenden ?
+***** leaflet + GPX plugins ?
